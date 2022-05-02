@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/github.com/sauravchamoli17/snapshot-react-app/static/css/main.d03163bd.chunk.css",
-    "main.js": "/github.com/sauravchamoli17/snapshot-react-app/static/js/main.d9240029.chunk.js",
-    "main.js.map": "/github.com/sauravchamoli17/snapshot-react-app/static/js/main.d9240029.chunk.js.map",
-    "runtime-main.js": "/github.com/sauravchamoli17/snapshot-react-app/static/js/runtime-main.ba8bb2e9.js",
-    "runtime-main.js.map": "/github.com/sauravchamoli17/snapshot-react-app/static/js/runtime-main.ba8bb2e9.js.map",
-    "static/js/2.259ad13e.chunk.js": "/github.com/sauravchamoli17/snapshot-react-app/static/js/2.259ad13e.chunk.js",
-    "static/js/2.259ad13e.chunk.js.map": "/github.com/sauravchamoli17/snapshot-react-app/static/js/2.259ad13e.chunk.js.map",
-    "index.html": "/github.com/sauravchamoli17/snapshot-react-app/index.html",
-    "precache-manifest.ca23193414dc09101676e57951cb2654.js": "/github.com/sauravchamoli17/snapshot-react-app/precache-manifest.ca23193414dc09101676e57951cb2654.js",
-    "service-worker.js": "/github.com/sauravchamoli17/snapshot-react-app/service-worker.js",
-    "static/css/main.d03163bd.chunk.css.map": "/github.com/sauravchamoli17/snapshot-react-app/static/css/main.d03163bd.chunk.css.map",
-    "static/js/2.259ad13e.chunk.js.LICENSE.txt": "/github.com/sauravchamoli17/snapshot-react-app/static/js/2.259ad13e.chunk.js.LICENSE.txt"
+    "main.css": "/sauravchamoli17/snapshot-react/static/css/main.d03163bd.chunk.css",
+    "main.js": "/sauravchamoli17/snapshot-react/static/js/main.9ca91744.chunk.js",
+    "main.js.map": "/sauravchamoli17/snapshot-react/static/js/main.9ca91744.chunk.js.map",
+    "runtime-main.js": "/sauravchamoli17/snapshot-react/static/js/runtime-main.49503c47.js",
+    "runtime-main.js.map": "/sauravchamoli17/snapshot-react/static/js/runtime-main.49503c47.js.map",
+    "static/js/2.259ad13e.chunk.js": "/sauravchamoli17/snapshot-react/static/js/2.259ad13e.chunk.js",
+    "static/js/2.259ad13e.chunk.js.map": "/sauravchamoli17/snapshot-react/static/js/2.259ad13e.chunk.js.map",
+    "index.html": "/sauravchamoli17/snapshot-react/index.html",
+    "precache-manifest.ce05d0234098d9b3c2692eab664e21a0.js": "/sauravchamoli17/snapshot-react/precache-manifest.ce05d0234098d9b3c2692eab664e21a0.js",
+    "service-worker.js": "/sauravchamoli17/snapshot-react/service-worker.js",
+    "static/css/main.d03163bd.chunk.css.map": "/sauravchamoli17/snapshot-react/static/css/main.d03163bd.chunk.css.map",
+    "static/js/2.259ad13e.chunk.js.LICENSE.txt": "/sauravchamoli17/snapshot-react/static/js/2.259ad13e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ba8bb2e9.js",
+    "static/js/runtime-main.49503c47.js",
     "static/js/2.259ad13e.chunk.js",
     "static/css/main.d03163bd.chunk.css",
-    "static/js/main.d9240029.chunk.js"
+    "static/js/main.9ca91744.chunk.js"
   ]
 }
