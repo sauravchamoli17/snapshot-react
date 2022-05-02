@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.com/sauravchamoli17/snapshot-react-app/static/css/main.d03163bd.chunk.css",
+    "main.js": "/github.com/sauravchamoli17/snapshot-react-app/static/js/main.d9240029.chunk.js",
+    "main.js.map": "/github.com/sauravchamoli17/snapshot-react-app/static/js/main.d9240029.chunk.js.map",
+    "runtime-main.js": "/github.com/sauravchamoli17/snapshot-react-app/static/js/runtime-main.ba8bb2e9.js",
+    "runtime-main.js.map": "/github.com/sauravchamoli17/snapshot-react-app/static/js/runtime-main.ba8bb2e9.js.map",
+    "static/js/2.259ad13e.chunk.js": "/github.com/sauravchamoli17/snapshot-react-app/static/js/2.259ad13e.chunk.js",
+    "static/js/2.259ad13e.chunk.js.map": "/github.com/sauravchamoli17/snapshot-react-app/static/js/2.259ad13e.chunk.js.map",
+    "index.html": "/github.com/sauravchamoli17/snapshot-react-app/index.html",
+    "precache-manifest.ca23193414dc09101676e57951cb2654.js": "/github.com/sauravchamoli17/snapshot-react-app/precache-manifest.ca23193414dc09101676e57951cb2654.js",
+    "service-worker.js": "/github.com/sauravchamoli17/snapshot-react-app/service-worker.js",
+    "static/css/main.d03163bd.chunk.css.map": "/github.com/sauravchamoli17/snapshot-react-app/static/css/main.d03163bd.chunk.css.map",
+    "static/js/2.259ad13e.chunk.js.LICENSE.txt": "/github.com/sauravchamoli17/snapshot-react-app/static/js/2.259ad13e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba8bb2e9.js",
+    "static/js/2.259ad13e.chunk.js",
+    "static/css/main.d03163bd.chunk.css",
+    "static/js/main.d9240029.chunk.js"
+  ]
+}
